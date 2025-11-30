@@ -145,4 +145,4 @@ For major changes, please open an issue first to discuss your proposal.
 
 
 ## Authors
-Claudia Álvarez Rojas & Giorgos Galanaquis Goivagnoli
+Claudia Álvarez Rojas & Giorgos Galanaquis Giovagnoli
