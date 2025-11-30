@@ -45,7 +45,7 @@ Python version: >= 3.8
 Clone the repository:
 
 ```bash
-git clone https://github.com/claudiaalvarezrjs-coder/Stellar-Population-Monte-Carlo-Simulator
+git clone https://github.com/Gorzux/montecarlo_ast305
 cd stellar-population-simulator
 ```
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install core dependencies:
