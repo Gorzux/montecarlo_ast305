@@ -33,9 +33,9 @@ It is intended for computational astrophysics users who want a lightweight but f
 - Fully documented functions using NumPy-style docstrings
 
 ## Flowchart
-![Random Mass Distribution](Random%20Mass%20Distribution.png)
+![Random Mass Distribution](Flowchart_of_Stellar_Population_MC_Simulator.jpeg)
 
-[Ver PDF](Random%20Mass%20Distribution.pdf)
+[Ver PDF](Flowchart_of_Stellar_Population_MC_Simulator.pdf.pdf)
 
 ## Requirements
 This project requires:
@@ -99,8 +99,6 @@ help(BH_mass)
 `main_mass()` — compute current mass (MS or remnant)
 
 `main()` — runs the full pipeline and returns a DataFrame
-
-![Flowchart of the Stellar Population MC Simulator.pdf](Flowchart_of_Stellar_Population_MC_Simulator.pdf/plot.pdf)
 
 ## Output DataFrame
 The output from `main()` is a pandas DataFrame with:
