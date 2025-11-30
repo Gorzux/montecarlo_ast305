@@ -5,6 +5,7 @@ A Monte Carlo–based Python tool to simulate and evolve stellar populations, fr
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
+- [Flowchart](#flowchart)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -30,6 +31,11 @@ It is intended for computational astrophysics users who want a lightweight but f
 - Probabilistic transitions in the 8–9 and 15–18.5 solar mass ranges  
 - Output delivered as a clean `pandas.DataFrame`  
 - Fully documented functions using NumPy-style docstrings
+
+## Flowchart
+![Random Mass Distribution](Random%20Mass%20Distribution.png)
+
+[Ver PDF](Random%20Mass%20Distribution.pdf)
 
 ## Requirements
 This project requires:
