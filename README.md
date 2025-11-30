@@ -63,7 +63,7 @@ pip install matplotlib
 from montecarlo_code_claudia_giorgos import main
 
 # Run a Monte Carlo simulation
-stars = main(quantity_MC=200000, seed=42)
+stars = main(quantity_MC=200000, seed=67)
 
 print(stars.head())
 print(stars["type"].value_counts(normalize=True) * 100)
