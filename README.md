@@ -60,7 +60,7 @@ pip install matplotlib
 ## Usage
 ```python
 
-from stellar_population import main
+from montecarlo_code_claudia_giorgos.ipynb import main
 
 # Run a Monte Carlo simulation
 stars = main(quantity_MC=200000, seed=42)
