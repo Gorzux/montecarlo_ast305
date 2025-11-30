@@ -35,7 +35,7 @@ It is intended for computational astrophysics users who want a lightweight but f
 ## Flowchart
 ![Random Mass Distribution](Flowchart_of_Stellar_Population_MC_Simulator.jpeg)
 
-[Ver PDF](Flowchart_of_Stellar_Population_MC_Simulator.pdf)
+[See PDF](Flowchart_of_Stellar_Population_MC_Simulator.pdf)
 
 ## Requirements
 This project requires:
