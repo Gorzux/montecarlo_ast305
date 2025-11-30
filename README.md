@@ -94,6 +94,8 @@ help(BH_mass)
 
 `main()` — runs the full pipeline and returns a DataFrame
 
+![Flowchart of the Stellar Population MC Simulator.pdf](Flowchart_of_Stellar_Population_MC_Simulator.pdf/plot.pdf)
+
 ## Output DataFrame
 The output from `main()` is a pandas DataFrame with:
 
