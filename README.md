@@ -46,7 +46,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Gorzux/montecarlo_ast305
-cd montecarlo_code_claudia_giorgos.ipynb
+cd montecarlo_code_claudia_giorgos
 ```
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install core dependencies:
 ```python
